@@ -179,9 +179,9 @@ Step-by-step creation guide is available in the `docs/` folder:
 ## 👨‍💻 Author
 
 **Sumedh Manwatkar**  
-Sr.Technical Trainer/Assistant Professor — CSE Department, GLA University  
+Assistant Professor — CSE Department, GLA University  
 Java Full Stack Trainer
 
 ---
 
-
+*⭐ If this helped you, give it a star on GitHub!*
